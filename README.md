@@ -3,7 +3,6 @@
 
 ## Notes
 - tunable_list.txt contains all currently known names for convenience.
-- dynamic_tunables.txt contains all "dynamic" tunables, i.e. ones where the name of the tunable is set within the json itself, to avoid clogging the actual list with hundreds of possible combinations. These tunables are used to enable rewards like clothing or weapons for in-game events.
 - I am only a human and small mistakes or hash collisions can happen. If you believe you've noticed either of those, feel free to let me know.
 - -----
 - gen7-b*x*-additions contains known/solved names or hashes names that were added in an update of the respective build number for Xbox 360 and PS3 **only**. Mostly redundant as there's barely any difference between gen8-onwards.
