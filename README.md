@@ -3,6 +3,7 @@
 
 ## Notes
 - tunable_list.txt contains all currently known names for convenience.
+- system_tunables.txt contains all currently known names for "system" (CD_GLOBAL) tunables. Not sure where those are stored. Executable?
 - I am only a human and small mistakes or hash collisions can happen. If you believe you've noticed either of those, feel free to let me know.
 - -----
 - gen7-b*x*-additions contains known/solved names or hashes names that were added in an update of the respective build number for Xbox 360 and PS3 **only**. Mostly redundant as there's barely any difference between gen8-onwards.
@@ -28,7 +29,7 @@ Dynamic categories. Those are suffixed with the respective contentLists index.
 - CONTENT_MODIFIER_
 - CONTENT_MODIFIER_MEMBERSHIP_
 
-Misc/unused. Probably won't need them.
+Misc. Typically used for gamemode-specific changes, eg to disable snow in stunt races specifically, etc. Rarely used. Some are unused altogether.
 - MP_CNC, MP_CNC_TEAM_COP, MP_CNC_TEAM_VAGOS, MP_CNC_TEAM_LOST
 - MP_FM, MP_FM_DM, MP_FM_SURVIVAL, MP_FM_BASEJUMP, MP_FM_CAPTURE, MP_FM_LTS, MP_FM_VERSUS, MP_FM_GANG_ATTACK
 - MP_FM_MISSIONS, MP_FM_HEIST, MP_FM_CONTACT, MP_FM_RANDOM, MP_FMADVERSARY
