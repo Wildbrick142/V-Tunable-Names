@@ -41,5 +41,6 @@ You're probably here if you helped me out directly or at some point posted old p
 - [FoxySnaps](https://twitter.com/FoxySnaps)
 - [GTAOBOT](https://twitter.com/gtaobot)
 - [RDO.GG API](https://rdo.gg/api)
+- [root-cause](https://github.com/root-cause)
 - [Tez2](https://twitter.com/TezFunz2)
 - ...and anyone else I might not have listed here.
