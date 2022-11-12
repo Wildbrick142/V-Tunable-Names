@@ -43,4 +43,5 @@ You're probably here if you helped me out directly or at some point posted old p
 - [RDO.GG API](https://rdo.gg/api)
 - [root-cause](https://github.com/root-cause)
 - [Tez2](https://twitter.com/TezFunz2)
+- [yasmasdas](https://github.com/yasmasdas)
 - ...and anyone else I might not have listed here.
