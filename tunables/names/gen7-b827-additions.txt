@@ -1,1 +1,4 @@
-
+DISABLE_UGC_PLANNING_CACHE
+activity_celebratiion_client_kick_timer
+activity_celebratiion_ready_timer
+activity_celebratiion_transition_timer
