@@ -4,6 +4,7 @@
 ## Notes
 - tunable_list.txt contains all currently known names for convenience.
 - system_tunables.txt contains all currently known names for "system" tunables. Not sure where those are stored. Executable? Those are typically used for CD_GLOBAL, but can be used for anything, one such example being MP_GLOBAL.
+- fake_tunables.txt contains tunables that have been long-removed or never existed to begin with but were still caught being used in the json for *whatever* reason.
 - I am only a human and small mistakes or hash collisions can happen. If you believe you've noticed either of those, feel free to let me know.
 - -----
 - gen7-b*x*-additions contains known/solved names or hashes names that were added in an update of the respective build number for Xbox 360 and PS3 **only**. Mostly redundant as there's barely any difference between gen8-onwards.
@@ -17,19 +18,20 @@
 
 Contributions are welcome. The more names the merrier! However, please ensure that the names are added to the correct build file (or just dump them all in the full list file and I'll sort it later, though that might take a while). **DO NOT** submit custom names that don't match any hashes, and please be mindful of hash collisions!
 
-## Categories
-All tunable categories, might be useful.
-Main categories. Those seem to be always used.
+## Contexts
+All tunable contexts, might be useful.
+
+Main contexts. Those seem to be always used.
 - BASE_GLOBALS
 - CD_GLOBAL
 - MP_GLOBAL
 - MP_FM_MEMBERSHIP
 
-Dynamic categories. Those are suffixed with the respective contentLists index.
+Dynamic contexts. Those are suffixed with the respective contentLists index.
 - CONTENT_MODIFIER_
 - CONTENT_MODIFIER_MEMBERSHIP_
 
-Misc. Typically used for gamemode-specific changes, eg to disable snow in stunt races specifically, etc. Rarely used. Some are unused altogether.
+Misc. contexts. Typically used for gamemode-specific changes, eg to disable snow in stunt races specifically, etc. Rarely used. Some are unused altogether.
 - MP_CNC, MP_CNC_TEAM_COP, MP_CNC_TEAM_VAGOS, MP_CNC_TEAM_LOST
 - MP_FM, MP_FM_DM, MP_FM_SURVIVAL, MP_FM_BASEJUMP, MP_FM_CAPTURE, MP_FM_LTS, MP_FM_VERSUS, MP_FM_GANG_ATTACK
 - MP_FM_MISSIONS, MP_FM_HEIST, MP_FM_CONTACT, MP_FM_RANDOM, MP_FMADVERSARY
