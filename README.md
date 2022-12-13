@@ -1,3 +1,6 @@
+# 12/13/2022 update
+to avoid unnecessary overlaps, please don't send names from the latest update until i do the first pass of names
+
 # V-Tunable-Names
 ![Hi!](https://cdn.discordapp.com/attachments/743624986371293193/999970648598269992/monika2-sticker2x.png)<br>This is a page attempting to resolve and list all tunable names for the 5th major iteration of a certain crime game. **This is strictly for educational/research purposes only and I <ins>do not</ins> condone any potentially-malicious use of it.**
 
