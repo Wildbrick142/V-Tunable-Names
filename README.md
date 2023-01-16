@@ -27,7 +27,7 @@ Main contexts. Those seem to be always used.
 - MP_GLOBAL
 - MP_FM_MEMBERSHIP
 
-Dynamic contexts. Those are suffixed with the respective contentLists index.
+Dynamic contexts. Those are suffixed with the respective contentLists index. These are typically used to adjust cash/rp/ap multipliers, but can also be used to disabled snow/xmas content on specific gamemodes.
 - CONTENT_MODIFIER_
 - CONTENT_MODIFIER_MEMBERSHIP_
 
@@ -40,8 +40,10 @@ Misc. contexts. Typically used for gamemode-specific changes, eg to disable snow
 ## Special Thanks
 You're probably here if you helped me out directly or at some point posted old plaintext copies of the json that had names I didn't have.
 - [alloc8or](https://github.com/alloc8or)
+- [Apokalypt](https://github.com/Apokalypt)
 - [FoxySnaps](https://twitter.com/FoxySnaps)
 - [GTAOBOT](https://twitter.com/gtaobot)
+- [PLTytus](https://github.com/PLTytus)
 - [RDO.GG API](https://rdo.gg/api)
 - [root-cause](https://github.com/root-cause)
 - [Tez2](https://twitter.com/TezFunz2)
