@@ -43,6 +43,7 @@ You're probably here if you helped me out directly or at some point posted old p
 - [Apokalypt](https://github.com/Apokalypt)
 - [FoxySnaps](https://twitter.com/FoxySnaps)
 - [GTAOBOT](https://twitter.com/gtaobot)
+- [hectorredx](https://github.com/hectorredx)
 - [PLTytus](https://github.com/PLTytus)
 - [RDO.GG API](https://rdo.gg/api)
 - [root-cause](https://github.com/root-cause)
