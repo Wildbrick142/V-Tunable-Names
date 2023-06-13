@@ -1,3 +1,6 @@
+# 06/13/2023 update
+this repository will be read only until i do the first pass of new names. this may take from a few hours to (at worst) a few days
+
 # V-Tunable-Names
 ![Hi!](https://cdn.discordapp.com/attachments/743624986371293193/999970648598269992/monika2-sticker2x.png)<br>This is a page attempting to resolve and list all tunable names for the 5th major iteration of a certain crime game. **This is strictly for educational/research purposes only and I <ins>do not</ins> condone any potentially-malicious use of it.**
 
