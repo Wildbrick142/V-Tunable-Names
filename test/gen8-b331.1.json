@@ -1,0 +1,11 @@
+{
+  "0x5FE7F299": {
+      "name": "ENABLE_CHARACTER_GENDER_CHANGE",
+      "type": "bool",
+      "def": false,
+      "dlc": 331,
+      "rem": -1,
+      "gid": 272997,
+      "desc": "Enables gender option in the character creator."
+  }
+}

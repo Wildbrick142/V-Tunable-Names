@@ -1,0 +1,2540 @@
+{
+  "0xBB0C8F22": {
+      "name": "ADVERSARY_LOSER1_QUICK_MATCH_MINIMUM_CASH_MULTIPLIER",
+      "type": "float",
+      "def": 0.5,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275746,
+      "desc": "No description."
+  },
+  "0x528F0141": {
+      "name": "ADVERSARY_LOSER2_QUICK_MATCH_MINIMUM_CASH_MULTIPLIER",
+      "type": "float",
+      "def": 0.25,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275747,
+      "desc": "No description."
+  },
+  "0x9F4DBD3E": {
+      "name": "ADVERSARY_LOSER3_QUICK_MATCH_MINIMUM_CASH_MULTIPLIER",
+      "type": "float",
+      "def": 0.1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275748,
+      "desc": "No description."
+  },
+  "0xCDB25897": {
+      "name": "ADVERSARY_WINNER_QUICK_MATCH_MINIMUM_CASH",
+      "type": "int",
+      "def": 1000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275745,
+      "desc": "No description."
+  },
+  "0xE37C4B58": {
+      "name": "BENNYSWEBSITE_KARIN_SULTAN_BENNYS",
+      "type": "int",
+      "def": 12000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275798,
+      "desc": "No description."
+  },
+  "0xA99AF3A7": {
+      "name": "BENNYSWEBSITE_KARIN_SULTAN_RS_UPGRADE",
+      "type": "int",
+      "def": 795000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275799,
+      "desc": "No description."
+  },
+  "0x25515D72": {
+      "name": "BE_MY_VALENTINE_INVITE_WEIGHT",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275797,
+      "desc": "No description."
+  },
+  "0xE24FBD2D": {
+      "name": "CARMODS_SUPERMOD_SLOT_BANSHEE2_STOCK_ENGINE_BLOCK",
+      "type": "int",
+      "def": 18000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275821,
+      "desc": "No description."
+  },
+  "0xBE297FFD": {
+      "name": "CARMODS_SUPERMOD_SLOT_BANSHEE2_STOCK_INTERIOR_DASH",
+      "type": "int",
+      "def": 15000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275816,
+      "desc": "No description."
+  },
+  "0xA985673B": {
+      "name": "CARMODS_SUPERMOD_SLOT_BANSHEE2_STOCK_INTERIOR_DIALS",
+      "type": "int",
+      "def": 11000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275817,
+      "desc": "No description."
+  },
+  "0x62F43D1F": {
+      "name": "CARMODS_SUPERMOD_SLOT_BANSHEE2_STOCK_INTERIOR_DOORS",
+      "type": "int",
+      "def": 8500,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275818,
+      "desc": "No description."
+  },
+  "0xB9ABEC5A": {
+      "name": "CARMODS_SUPERMOD_SLOT_BANSHEE2_STOCK_LIVERY",
+      "type": "int",
+      "def": 18000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275823,
+      "desc": "No description."
+  },
+  "0x8F03709B": {
+      "name": "CARMODS_SUPERMOD_SLOT_BANSHEE2_STOCK_SEATS",
+      "type": "int",
+      "def": 7900,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275819,
+      "desc": "No description."
+  },
+  "0x67015E42": {
+      "name": "CARMODS_SUPERMOD_SLOT_BANSHEE2_STOCK_STEERING_WHEEL",
+      "type": "int",
+      "def": 9000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275820,
+      "desc": "No description."
+  },
+  "0x2C3F01D3": {
+      "name": "CARMODS_SUPERMOD_SLOT_BANSHEE2_STOCK_STRUT_BRACE",
+      "type": "int",
+      "def": 10500,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275822,
+      "desc": "No description."
+  },
+  "0x913019D0": {
+      "name": "CARMODS_SUPERMOD_SLOT_BTYPE3_STOCK_ARCH_COVERS",
+      "type": "int",
+      "def": 3400,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275824,
+      "desc": "No description."
+  },
+  "0x0C389190": {
+      "name": "CARMODS_SUPERMOD_SLOT_BTYPE3_STOCK_FRONT_DETAIL",
+      "type": "int",
+      "def": 1100,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275826,
+      "desc": "No description."
+  },
+  "0x3BA372E6": {
+      "name": "CARMODS_SUPERMOD_SLOT_BTYPE3_STOCK_SIDE_HOOD_GRILL",
+      "type": "int",
+      "def": 1800,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275825,
+      "desc": "No description."
+  },
+  "0x68F181D4": {
+      "name": "CARMODS_SUPERMOD_SLOT_BTYPE3_STOCK_SPARE_WHEEL",
+      "type": "int",
+      "def": 3700,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275827,
+      "desc": "No description."
+  },
+  "0xC04E3AC8": {
+      "name": "CARMODS_SUPERMOD_SLOT_SULTANRS_STOCK_CAM_COVER",
+      "type": "int",
+      "def": 13400,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275809,
+      "desc": "No description."
+  },
+  "0xB19FADFB": {
+      "name": "CARMODS_SUPERMOD_SLOT_SULTANRS_STOCK_CHASSIS_FOGLIGHTS",
+      "type": "int",
+      "def": 8900,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275811,
+      "desc": "No description."
+  },
+  "0x3E70A85A": {
+      "name": "CARMODS_SUPERMOD_SLOT_SULTANRS_STOCK_CHASSIS_HEADLIGHT_TRIM",
+      "type": "int",
+      "def": 6000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275813,
+      "desc": "No description."
+  },
+  "0xE7BD746D": {
+      "name": "CARMODS_SUPERMOD_SLOT_SULTANRS_STOCK_CHASSIS_ROOF_SCOOP",
+      "type": "int",
+      "def": 3900,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275812,
+      "desc": "No description."
+  },
+  "0xD39B18F6": {
+      "name": "CARMODS_SUPERMOD_SLOT_SULTANRS_STOCK_ENGINE_BLOCK",
+      "type": "int",
+      "def": 25000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275808,
+      "desc": "No description."
+  },
+  "0xB4EFBB74": {
+      "name": "CARMODS_SUPERMOD_SLOT_SULTANRS_STOCK_INTERIOR_DASH",
+      "type": "int",
+      "def": 18300,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275803,
+      "desc": "No description."
+  },
+  "0x025349F4": {
+      "name": "CARMODS_SUPERMOD_SLOT_SULTANRS_STOCK_INTERIOR_DIALS",
+      "type": "int",
+      "def": 11000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275804,
+      "desc": "No description."
+  },
+  "0x510E34CC": {
+      "name": "CARMODS_SUPERMOD_SLOT_SULTANRS_STOCK_INTERIOR_DOORS",
+      "type": "int",
+      "def": 8500,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275805,
+      "desc": "No description."
+  },
+  "0x9DAF5D80": {
+      "name": "CARMODS_SUPERMOD_SLOT_SULTANRS_STOCK_INTERIOR_TRIM",
+      "type": "int",
+      "def": 3100,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275802,
+      "desc": "No description."
+  },
+  "0x027BA09F": {
+      "name": "CARMODS_SUPERMOD_SLOT_SULTANRS_STOCK_LEFT_DOOR",
+      "type": "int",
+      "def": 1200,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275814,
+      "desc": "No description."
+  },
+  "0x8157D7FC": {
+      "name": "CARMODS_SUPERMOD_SLOT_SULTANRS_STOCK_LIVERY",
+      "type": "int",
+      "def": 18000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275815,
+      "desc": "No description."
+  },
+  "0x5D7E001F": {
+      "name": "CARMODS_SUPERMOD_SLOT_SULTANRS_STOCK_SEATS",
+      "type": "int",
+      "def": 7900,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275806,
+      "desc": "No description."
+  },
+  "0x52F2ACBE": {
+      "name": "CARMODS_SUPERMOD_SLOT_SULTANRS_STOCK_STEERING_WHEEL",
+      "type": "int",
+      "def": 9000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275807,
+      "desc": "No description."
+  },
+  "0xA9B22389": {
+      "name": "CARMODS_SUPERMOD_SLOT_SULTANRS_STOCK_STRUT_BRACE",
+      "type": "int",
+      "def": 10500,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275810,
+      "desc": "No description."
+  },
+  "0x51925431": {
+      "name": "CREWPARACHUTESMOKETRAIL",
+      "type": "int",
+      "def": 25000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275991,
+      "desc": "No description."
+  },
+  "0x90ABC0AB": {
+      "name": "DAG_0_NEW_VS",
+      "type": "int",
+      "def": 2004371279,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 272031,
+      "desc": "No description."
+  },
+  "0x797D18F7": {
+      "name": "DAG_1_NEW_VS",
+      "type": "int",
+      "def": -1580608396,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 272032,
+      "desc": "No description."
+  },
+  "0x15FE0A3D": {
+      "name": "DAG_2_NEW_VS",
+      "type": "int",
+      "def": 2031238559,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 272033,
+      "desc": "No description."
+  },
+  "0xB7825C72": {
+      "name": "DAG_3_NEW_VS",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 272034,
+      "desc": "No description."
+  },
+  "0x265F6340": {
+      "name": "DAG_4_NEW_VS",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 272035,
+      "desc": "No description."
+  },
+  "0x39E4EE95": {
+      "name": "DAG_5_NEW_VS",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 272036,
+      "desc": "No description."
+  },
+  "0x012D2FD0": {
+      "name": "DAG_6_NEW_VS",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 272037,
+      "desc": "No description."
+  },
+  "0xBE6CC973": {
+      "name": "DAG_7_NEW_VS",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 272038,
+      "desc": "No description."
+  },
+  "0x37CCCA56": {
+      "name": "DAG_8_NEW_VS",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 272039,
+      "desc": "No description."
+  },
+  "0x139F06F1": {
+      "name": "DAG_9_NEW_VS",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 272040,
+      "desc": "No description."
+  },
+  "0x3CBE3764": {
+      "name": "DAVIDS_VS_GOLIATH_INVITE_WEIGHT",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275993,
+      "desc": "No description."
+  },
+  "0xBDA4D119": {
+      "name": "DAVIDS_VS_GOLIATH_NUMBER_OF_OCCURRENCES",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275992,
+      "desc": "No description."
+  },
+  "0x6EDF3497": {
+      "name": "DLC_SHIRT_AN_AMERICAN_DIVORCE",
+      "type": "bool",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 274306,
+      "desc": "No description."
+  },
+  "0x8B7ED0F9": {
+      "name": "DLC_SHIRT_CAPOLAVORO",
+      "type": "bool",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 274308,
+      "desc": "No description."
+  },
+  "0x704CE86D": {
+      "name": "DLC_SHIRT_NELSON_IN_NAPLES",
+      "type": "bool",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 274304,
+      "desc": "No description."
+  },
+  "0x957CAE3E": {
+      "name": "DLC_SHIRT_THE_LONELIEST_ROBOT",
+      "type": "bool",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 274307,
+      "desc": "No description."
+  },
+  "0x73C1CBE3": {
+      "name": "DLC_SHIRT_THE_MANY_WIVES_OF_ALFREDO_SMITH",
+      "type": "bool",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 274305,
+      "desc": "No description."
+  },
+  "0xD4DF19A1": {
+      "name": "DLC_SHIRT_THE_SHOULDER_OF_ORION_II",
+      "type": "bool",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 274303,
+      "desc": "No description."
+  },
+  "0xB00CBA3D": {
+      "name": "FEMALELOWERS_VALENTINES2016_BLACK_HEART_STOCKINGS",
+      "type": "int",
+      "def": 5805,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275961,
+      "desc": "No description."
+  },
+  "0x43DC4524": {
+      "name": "FEMALELOWERS_VALENTINES2016_BLACK_LEOPARD_STOCKINGS",
+      "type": "int",
+      "def": 6500,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275965,
+      "desc": "No description."
+  },
+  "0x7C9DBFDF": {
+      "name": "FEMALELOWERS_VALENTINES2016_BLACK_PLAID_STOCKINGS",
+      "type": "int",
+      "def": 5610,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275957,
+      "desc": "No description."
+  },
+  "0x1E8747AD": {
+      "name": "FEMALELOWERS_VALENTINES2016_BLACK_SILK_LACE_PANTIES",
+      "type": "int",
+      "def": 2710,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275945,
+      "desc": "No description."
+  },
+  "0xC68E8346": {
+      "name": "FEMALELOWERS_VALENTINES2016_BLUE_DOTTED_STOCKINGS",
+      "type": "int",
+      "def": 5875,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275958,
+      "desc": "No description."
+  },
+  "0x1ADDE02F": {
+      "name": "FEMALELOWERS_VALENTINES2016_BLUE_DOT_SILK_LACE_PANTIES",
+      "type": "int",
+      "def": 2975,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275946,
+      "desc": "No description."
+  },
+  "0x32AC619F": {
+      "name": "FEMALELOWERS_VALENTINES2016_CRIMSON_LACE_PANTIES",
+      "type": "int",
+      "def": 3275,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275947,
+      "desc": "No description."
+  },
+  "0x0AEE3E3B": {
+      "name": "FEMALELOWERS_VALENTINES2016_DIVA_LACE_PANTIES",
+      "type": "int",
+      "def": 2905,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275949,
+      "desc": "No description."
+  },
+  "0xBB37FF8B": {
+      "name": "FEMALELOWERS_VALENTINES2016_LILAC_PLAID_STOCKINGS",
+      "type": "int",
+      "def": 5545,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275956,
+      "desc": "No description."
+  },
+  "0xF7ADFACD": {
+      "name": "FEMALELOWERS_VALENTINES2016_LILAC_SILK_LACE_PANTIES",
+      "type": "int",
+      "def": 2645,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275944,
+      "desc": "No description."
+  },
+  "0x42F30791": {
+      "name": "FEMALELOWERS_VALENTINES2016_NOIR_LACE_PANTIES",
+      "type": "int",
+      "def": 3600,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275953,
+      "desc": "No description."
+  },
+  "0xE68FFC60": {
+      "name": "FEMALELOWERS_VALENTINES2016_NUDE_SILK_LACE_PANTIES",
+      "type": "int",
+      "def": 3035,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275943,
+      "desc": "No description."
+  },
+  "0x6CE6ADFA": {
+      "name": "FEMALELOWERS_VALENTINES2016_NUDE_STOCKINGS",
+      "type": "int",
+      "def": 5935,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275955,
+      "desc": "No description."
+  },
+  "0xDC96EE49": {
+      "name": "FEMALELOWERS_VALENTINES2016_PURPLE_LACE_PANTIES",
+      "type": "int",
+      "def": 2515,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275951,
+      "desc": "No description."
+  },
+  "0x4B41E4C0": {
+      "name": "FEMALELOWERS_VALENTINES2016_PURPLE_STRIPE_STOCKINGS",
+      "type": "int",
+      "def": 5415,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275963,
+      "desc": "No description."
+  },
+  "0xDAFA96E2": {
+      "name": "FEMALELOWERS_VALENTINES2016_RED_HEART_STOCKINGS",
+      "type": "int",
+      "def": 5990,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275962,
+      "desc": "No description."
+  },
+  "0x19DF5A4C": {
+      "name": "FEMALELOWERS_VALENTINES2016_RED_LEOPARD_STOCKINGS",
+      "type": "int",
+      "def": 6175,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275959,
+      "desc": "No description."
+  },
+  "0xF52AA8E5": {
+      "name": "FEMALELOWERS_VALENTINES2016_RED_SILK_LACE_PANTIES",
+      "type": "int",
+      "def": 2780,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275954,
+      "desc": "No description."
+  },
+  "0x9DB8C8C5": {
+      "name": "FEMALELOWERS_VALENTINES2016_RED_STRIPE_STOCKINGS",
+      "type": "int",
+      "def": 5680,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275966,
+      "desc": "No description."
+  },
+  "0xAA3101AB": {
+      "name": "FEMALELOWERS_VALENTINES2016_SCARLET_LACE_PANTIES",
+      "type": "int",
+      "def": 3090,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275950,
+      "desc": "No description."
+  },
+  "0xA7477929": {
+      "name": "FEMALELOWERS_VALENTINES2016_TAN_LACE_PANTIES",
+      "type": "int",
+      "def": 2450,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275952,
+      "desc": "No description."
+  },
+  "0x63AF3F71": {
+      "name": "FEMALELOWERS_VALENTINES2016_TAN_STRIPE_STOCKINGS",
+      "type": "int",
+      "def": 5350,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275964,
+      "desc": "No description."
+  },
+  "0x5234EA3D": {
+      "name": "FEMALELOWERS_VALENTINES2016_WHITE_HEART_STOCKINGS",
+      "type": "int",
+      "def": 5740,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275960,
+      "desc": "No description."
+  },
+  "0xBE35C810": {
+      "name": "FEMALELOWERS_VALENTINES2016_WHITE_SILK_LACE_PANTIES",
+      "type": "int",
+      "def": 2840,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275948,
+      "desc": "No description."
+  },
+  "0x7CFBCF33": {
+      "name": "FEMALEOUTFIT_VALENTINES2016_THE_ADMIRER",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275984,
+      "desc": "No description."
+  },
+  "0x34ECAAE5": {
+      "name": "FEMALEOUTFIT_VALENTINES2016_THE_ANGELIC",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275983,
+      "desc": "No description."
+  },
+  "0xBFA098F0": {
+      "name": "FEMALEOUTFIT_VALENTINES2016_THE_AZURE",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275989,
+      "desc": "No description."
+  },
+  "0xD230A244": {
+      "name": "FEMALEOUTFIT_VALENTINES2016_THE_BLUES",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275982,
+      "desc": "No description."
+  },
+  "0x96809741": {
+      "name": "FEMALEOUTFIT_VALENTINES2016_THE_CHARM",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275979,
+      "desc": "No description."
+  },
+  "0xCD483163": {
+      "name": "FEMALEOUTFIT_VALENTINES2016_THE_CONCUBINE",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275988,
+      "desc": "No description."
+  },
+  "0x149759D9": {
+      "name": "FEMALEOUTFIT_VALENTINES2016_THE_EROS",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275985,
+      "desc": "No description."
+  },
+  "0xD49A6701": {
+      "name": "FEMALEOUTFIT_VALENTINES2016_THE_FEMME",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275990,
+      "desc": "No description."
+  },
+  "0x99DDABA9": {
+      "name": "FEMALEOUTFIT_VALENTINES2016_THE_GLAMOUR",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275987,
+      "desc": "No description."
+  },
+  "0x524B8A3D": {
+      "name": "FEMALEOUTFIT_VALENTINES2016_THE_LOVE",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275981,
+      "desc": "No description."
+  },
+  "0xC6BD106A": {
+      "name": "FEMALEOUTFIT_VALENTINES2016_THE_PARAMOUR",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275980,
+      "desc": "No description."
+  },
+  "0x6D2F381F": {
+      "name": "FEMALEOUTFIT_VALENTINES2016_THE_SIREN",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275986,
+      "desc": "No description."
+  },
+  "0xF70B22E3": {
+      "name": "FEMALESHOES_VALENTINES2016_BLACK_ROUNDED_HEELS",
+      "type": "int",
+      "def": 1610,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275906,
+      "desc": "No description."
+  },
+  "0xC8BAF2B0": {
+      "name": "FEMALESHOES_VALENTINES2016_BLUE_ROUNDED_HEELS",
+      "type": "int",
+      "def": 1875,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275907,
+      "desc": "No description."
+  },
+  "0x33809321": {
+      "name": "FEMALESHOES_VALENTINES2016_CREAM_ROUNDED_HEELS",
+      "type": "int",
+      "def": 1350,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275913,
+      "desc": "No description."
+  },
+  "0x74B37585": {
+      "name": "FEMALESHOES_VALENTINES2016_CRIMSON_ROUNDED_HEELS",
+      "type": "int",
+      "def": 1990,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275911,
+      "desc": "No description."
+  },
+  "0x747C59EC": {
+      "name": "FEMALESHOES_VALENTINES2016_HOT_PINK_ROUNDED_HEELS",
+      "type": "int",
+      "def": 2340,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275909,
+      "desc": "No description."
+  },
+  "0x5AC77FAA": {
+      "name": "FEMALESHOES_VALENTINES2016_LEOPARD_ROUNDED_HEELS",
+      "type": "int",
+      "def": 3500,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275914,
+      "desc": "No description."
+  },
+  "0x58F11E8E": {
+      "name": "FEMALESHOES_VALENTINES2016_LILAC_ROUNDED_HEELS",
+      "type": "int",
+      "def": 1415,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275912,
+      "desc": "No description."
+  },
+  "0xCF3846E6": {
+      "name": "FEMALESHOES_VALENTINES2016_NUDE_ROUNDED_HEELS",
+      "type": "int",
+      "def": 1935,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275904,
+      "desc": "No description."
+  },
+  "0xC484644C": {
+      "name": "FEMALESHOES_VALENTINES2016_PINK_ROUNDED_HEELS",
+      "type": "int",
+      "def": 1805,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275910,
+      "desc": "No description."
+  },
+  "0xE2AFA6FE": {
+      "name": "FEMALESHOES_VALENTINES2016_PURPLE_ROUNDED_HEELS",
+      "type": "int",
+      "def": 1545,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275905,
+      "desc": "No description."
+  },
+  "0x9F004AE2": {
+      "name": "FEMALESHOES_VALENTINES2016_RED_ROUNDED_HEELS",
+      "type": "int",
+      "def": 2175,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275908,
+      "desc": "No description."
+  },
+  "0xAEFD3E54": {
+      "name": "FEMALESHOES_VALENTINES2016_RED_SPARKLE_ROUNDED_HEELS",
+      "type": "int",
+      "def": 2680,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275915,
+      "desc": "No description."
+  },
+  "0x7D41468D": {
+      "name": "FEMALEUPPERS_VALENTINES2016_BLACK_BEADED_DRESS",
+      "type": "int",
+      "def": 9965,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275941,
+      "desc": "No description."
+  },
+  "0x17057E20": {
+      "name": "FEMALEUPPERS_VALENTINES2016_BLACK_COLUMN_DRESS",
+      "type": "int",
+      "def": 9685,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275937,
+      "desc": "No description."
+  },
+  "0x7643D1FC": {
+      "name": "FEMALEUPPERS_VALENTINES2016_BLACK_HEART_LACE_BUSTIER",
+      "type": "int",
+      "def": 6305,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275922,
+      "desc": "No description."
+  },
+  "0x1E057348": {
+      "name": "FEMALEUPPERS_VALENTINES2016_BLACK_LEOPARD_LACE_BUSTIER",
+      "type": "int",
+      "def": 7000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275926,
+      "desc": "No description."
+  },
+  "0x9F4A1807": {
+      "name": "FEMALEUPPERS_VALENTINES2016_BLACK_PLAID_LACE_BUSTIER",
+      "type": "int",
+      "def": 6110,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275918,
+      "desc": "No description."
+  },
+  "0x7C4FC3E1": {
+      "name": "FEMALEUPPERS_VALENTINES2016_BLUE_COLUMN_DRESS",
+      "type": "int",
+      "def": 9525,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275939,
+      "desc": "No description."
+  },
+  "0x338CD8A4": {
+      "name": "FEMALEUPPERS_VALENTINES2016_BLUE_DOT_LACE_BUSTIER",
+      "type": "int",
+      "def": 6375,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275919,
+      "desc": "No description."
+  },
+  "0x14C83B44": {
+      "name": "FEMALEUPPERS_VALENTINES2016_BLUE_EMBROIDERED_DRESS",
+      "type": "int",
+      "def": 8215,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275928,
+      "desc": "No description."
+  },
+  "0x8FA0E1CF": {
+      "name": "FEMALEUPPERS_VALENTINES2016_BLUE_SHIMMER_DRESS",
+      "type": "int",
+      "def": 8940,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275933,
+      "desc": "No description."
+  },
+  "0x88C03706": {
+      "name": "FEMALEUPPERS_VALENTINES2016_BROWN_SHIMMER_DRESS",
+      "type": "int",
+      "def": 8770,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275931,
+      "desc": "No description."
+  },
+  "0x2F8F6AD5": {
+      "name": "FEMALEUPPERS_VALENTINES2016_CREAM_EMBROIDERED_DRESS",
+      "type": "int",
+      "def": 8365,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275930,
+      "desc": "No description."
+  },
+  "0xCF22BE8A": {
+      "name": "FEMALEUPPERS_VALENTINES2016_CREAM_VINATGE_DRESS",
+      "type": "int",
+      "def": 9200,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275936,
+      "desc": "No description."
+  },
+  "0x676E79CC": {
+      "name": "FEMALEUPPERS_VALENTINES2016_GOLD_EMBROIDERED_DRESS",
+      "type": "int",
+      "def": 8400,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275929,
+      "desc": "No description."
+  },
+  "0x34999BE2": {
+      "name": "FEMALEUPPERS_VALENTINES2016_GOLD_SHIMMER_DRESS",
+      "type": "int",
+      "def": 8995,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275932,
+      "desc": "No description."
+  },
+  "0x3DC40490": {
+      "name": "FEMALEUPPERS_VALENTINES2016_GREEN_VINATGE_DRESS",
+      "type": "int",
+      "def": 8985,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275935,
+      "desc": "No description."
+  },
+  "0xD9D56BF5": {
+      "name": "FEMALEUPPERS_VALENTINES2016_LILAC_PLAID_LACE_BUSTIER",
+      "type": "int",
+      "def": 6045,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275917,
+      "desc": "No description."
+  },
+  "0x37E877CE": {
+      "name": "FEMALEUPPERS_VALENTINES2016_NUDE_LACE_BUSTIER",
+      "type": "int",
+      "def": 6435,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275916,
+      "desc": "No description."
+  },
+  "0x76E973C6": {
+      "name": "FEMALEUPPERS_VALENTINES2016_PURPLE_STRIPE_LACE_BUSTIER",
+      "type": "int",
+      "def": 5915,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275924,
+      "desc": "No description."
+  },
+  "0xA89B910F": {
+      "name": "FEMALEUPPERS_VALENTINES2016_RED_BEADED_DRESS",
+      "type": "int",
+      "def": 10000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275942,
+      "desc": "No description."
+  },
+  "0x284544D0": {
+      "name": "FEMALEUPPERS_VALENTINES2016_RED_HEART_LACE_BUSTIER",
+      "type": "int",
+      "def": 6490,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275923,
+      "desc": "No description."
+  },
+  "0x184569EC": {
+      "name": "FEMALEUPPERS_VALENTINES2016_RED_LEOPARD_LACE_BUSTIER",
+      "type": "int",
+      "def": 6675,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275920,
+      "desc": "No description."
+  },
+  "0x6D3CCAEC": {
+      "name": "FEMALEUPPERS_VALENTINES2016_RED_STRIPE_LACE_BUSTIER",
+      "type": "int",
+      "def": 6180,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275927,
+      "desc": "No description."
+  },
+  "0x538794FE": {
+      "name": "FEMALEUPPERS_VALENTINES2016_RED_VINATGE_DRESS",
+      "type": "int",
+      "def": 9185,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275934,
+      "desc": "No description."
+  },
+  "0x9D872719": {
+      "name": "FEMALEUPPERS_VALENTINES2016_TAN_STRIPE_LACE_BUSTIER",
+      "type": "int",
+      "def": 5850,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275925,
+      "desc": "No description."
+  },
+  "0x593A2D27": {
+      "name": "FEMALEUPPERS_VALENTINES2016_WHITE_BEADED_DRESS",
+      "type": "int",
+      "def": 9815,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275940,
+      "desc": "No description."
+  },
+  "0xD4723B2D": {
+      "name": "FEMALEUPPERS_VALENTINES2016_WHITE_COLUMN_DRESS",
+      "type": "int",
+      "def": 9365,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275938,
+      "desc": "No description."
+  },
+  "0x8D2D5FA0": {
+      "name": "FEMALEUPPERS_VALENTINES2016_WHITE_HEART_LACE_BUSTIER",
+      "type": "int",
+      "def": 6240,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275921,
+      "desc": "No description."
+  },
+  "0x6B590E7E": {
+      "name": "GANGBOSSINITIALISEDATADELAYTIME",
+      "type": "int",
+      "def": 20000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275997,
+      "desc": "No description."
+  },
+  "0xA296F3EF": {
+      "name": "MALEACCESSORIES_VALENTINES2016_BLACK_FULL_BOWTIE",
+      "type": "int",
+      "def": 2000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275903,
+      "desc": "No description."
+  },
+  "0x43A6D4F1": {
+      "name": "MALEHATS_VALENTINES2016_BEIGE_CHECK_SUIT_FEDORA",
+      "type": "int",
+      "def": 5250,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275901,
+      "desc": "No description."
+  },
+  "0x94E2E140": {
+      "name": "MALEHATS_VALENTINES2016_BLACK_SUIT_FEDORA",
+      "type": "int",
+      "def": 3875,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275894,
+      "desc": "No description."
+  },
+  "0x10915F6F": {
+      "name": "MALEHATS_VALENTINES2016_BLUE_CHECK_SUIT_FEDORA",
+      "type": "int",
+      "def": 4380,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275891,
+      "desc": "No description."
+  },
+  "0x79597982": {
+      "name": "MALEHATS_VALENTINES2016_CHOCOLATE_SUIT_FEDORA",
+      "type": "int",
+      "def": 4540,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275897,
+      "desc": "No description."
+  },
+  "0x06CB421F": {
+      "name": "MALEHATS_VALENTINES2016_CLASSIC_CHECK_SUIT_FEDORA",
+      "type": "int",
+      "def": 4415,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275900,
+      "desc": "No description."
+  },
+  "0x8F807C10": {
+      "name": "MALEHATS_VALENTINES2016_CRIMSON_SUIT_FEDORA",
+      "type": "int",
+      "def": 4150,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275899,
+      "desc": "No description."
+  },
+  "0x01E8C893": {
+      "name": "MALEHATS_VALENTINES2016_DUSK_CHECK_SUIT_FEDORA",
+      "type": "int",
+      "def": 4750,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275893,
+      "desc": "No description."
+  },
+  "0xE4E65EE3": {
+      "name": "MALEHATS_VALENTINES2016_MUSTARD_SUIT_FEDORA",
+      "type": "int",
+      "def": 5360,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275898,
+      "desc": "No description."
+  },
+  "0x985AFB17": {
+      "name": "MALEHATS_VALENTINES2016_RED_SUIT_FEDORA",
+      "type": "int",
+      "def": 5000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275892,
+      "desc": "No description."
+  },
+  "0x1118E868": {
+      "name": "MALEHATS_VALENTINES2016_ROYAL_SUIT_FEDORA",
+      "type": "int",
+      "def": 4120,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275902,
+      "desc": "No description."
+  },
+  "0xEB1578EF": {
+      "name": "MALEHATS_VALENTINES2016_SKY_CHECK_SUIT_FEDORA",
+      "type": "int",
+      "def": 4085,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275896,
+      "desc": "No description."
+  },
+  "0x37E65C19": {
+      "name": "MALEHATS_VALENTINES2016_WHITE_SUIT_FEDORA",
+      "type": "int",
+      "def": 4430,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275895,
+      "desc": "No description."
+  },
+  "0x944D7F27": {
+      "name": "MALELOWERS_VALENTINES2016_BEIGE_CHECK_SUIT_PANTS",
+      "type": "int",
+      "def": 2450,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275875,
+      "desc": "No description."
+  },
+  "0x8D63B20C": {
+      "name": "MALELOWERS_VALENTINES2016_BLACK_BOXER_SHORTS",
+      "type": "int",
+      "def": 1200,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275878,
+      "desc": "No description."
+  },
+  "0x4CC2AD94": {
+      "name": "MALELOWERS_VALENTINES2016_BLACK_HEART_BOXER_SHORTS",
+      "type": "int",
+      "def": 1495,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275882,
+      "desc": "No description."
+  },
+  "0x533819DC": {
+      "name": "MALELOWERS_VALENTINES2016_BLACK_LEOPARD_BOXER_SHORTS",
+      "type": "int",
+      "def": 2500,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275886,
+      "desc": "No description."
+  },
+  "0x1AA8AEE1": {
+      "name": "MALELOWERS_VALENTINES2016_BLUE_CHECK_SUIT_PANTS",
+      "type": "int",
+      "def": 1580,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275865,
+      "desc": "No description."
+  },
+  "0xD866A825": {
+      "name": "MALELOWERS_VALENTINES2016_BLUE_DOT_BOXER_SHORTS",
+      "type": "int",
+      "def": 1840,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275888,
+      "desc": "No description."
+  },
+  "0x42038E74": {
+      "name": "MALELOWERS_VALENTINES2016_CHOCOLATE_CHECK_SUIT_PANTS",
+      "type": "int",
+      "def": 1740,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275871,
+      "desc": "No description."
+  },
+  "0xA2F6AEFF": {
+      "name": "MALELOWERS_VALENTINES2016_CLASSIC_CHECK_SUIT_PANTS",
+      "type": "int",
+      "def": 1615,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275874,
+      "desc": "No description."
+  },
+  "0x5AD795BF": {
+      "name": "MALELOWERS_VALENTINES2016_CRIMSON_CHECK_SUIT_PANTS",
+      "type": "int",
+      "def": 1350,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275873,
+      "desc": "No description."
+  },
+  "0xC7F8772B": {
+      "name": "MALELOWERS_VALENTINES2016_DUSK_CHECK_SUIT_PANTS",
+      "type": "int",
+      "def": 1950,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275867,
+      "desc": "No description."
+  },
+  "0x7984A862": {
+      "name": "MALELOWERS_VALENTINES2016_GRAY_BOXER_SHORTS",
+      "type": "int",
+      "def": 925,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275879,
+      "desc": "No description."
+  },
+  "0x5AFF9909": {
+      "name": "MALELOWERS_VALENTINES2016_GRAY_CHECK_SUIT_PANTS",
+      "type": "int",
+      "def": 1630,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275869,
+      "desc": "No description."
+  },
+  "0x4D6ED99D": {
+      "name": "MALELOWERS_VALENTINES2016_LILAC_PLAID_BOXER_SHORTS",
+      "type": "int",
+      "def": 2075,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275890,
+      "desc": "No description."
+  },
+  "0x40C26525": {
+      "name": "MALELOWERS_VALENTINES2016_MUSTARD_PINSTRIPE_SUIT_PANTS",
+      "type": "int",
+      "def": 2560,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275872,
+      "desc": "No description."
+  },
+  "0xFEDAFE36": {
+      "name": "MALELOWERS_VALENTINES2016_PURPLE_CHECK_SUIT_PANTS",
+      "type": "int",
+      "def": 1075,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275868,
+      "desc": "No description."
+  },
+  "0xCAEF1986": {
+      "name": "MALELOWERS_VALENTINES2016_PURPLE_STRIPE_BOXER_SHORTS",
+      "type": "int",
+      "def": 1780,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275884,
+      "desc": "No description."
+  },
+  "0x0F310346": {
+      "name": "MALELOWERS_VALENTINES2016_RED_HEART_BOXER_SHORTS",
+      "type": "int",
+      "def": 1550,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275883,
+      "desc": "No description."
+  },
+  "0xDCB53606": {
+      "name": "MALELOWERS_VALENTINES2016_RED_LEOPARD_BOXER_SHORTS",
+      "type": "int",
+      "def": 2430,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275880,
+      "desc": "No description."
+  },
+  "0x8DB5FBF3": {
+      "name": "MALELOWERS_VALENTINES2016_RED_PINSTRIPE_SUIT_PANTS",
+      "type": "int",
+      "def": 2200,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275866,
+      "desc": "No description."
+  },
+  "0x3926C0BB": {
+      "name": "MALELOWERS_VALENTINES2016_RED_PLAID_BOXER_SHORTS",
+      "type": "int",
+      "def": 2100,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275889,
+      "desc": "No description."
+  },
+  "0x76E8438B": {
+      "name": "MALELOWERS_VALENTINES2016_RED_STRIPE_BOXER_SHORTS",
+      "type": "int",
+      "def": 1950,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275887,
+      "desc": "No description."
+  },
+  "0x72D947EE": {
+      "name": "MALELOWERS_VALENTINES2016_ROYAL_CHECK_SUIT_PANTS",
+      "type": "int",
+      "def": 1320,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275876,
+      "desc": "No description."
+  },
+  "0xE3CF5DDA": {
+      "name": "MALELOWERS_VALENTINES2016_SKY_CHECK_SUIT_PANTS",
+      "type": "int",
+      "def": 1285,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275870,
+      "desc": "No description."
+  },
+  "0x4D3BCB3F": {
+      "name": "MALELOWERS_VALENTINES2016_TAN_STRIPE_BOXER_SHORTS",
+      "type": "int",
+      "def": 1745,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275885,
+      "desc": "No description."
+  },
+  "0xB8DF4E42": {
+      "name": "MALELOWERS_VALENTINES2016_WHITE_BOXER_SHORTS",
+      "type": "int",
+      "def": 900,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275877,
+      "desc": "No description."
+  },
+  "0x37503A6C": {
+      "name": "MALELOWERS_VALENTINES2016_WHITE_HEART_BOXER_SHORTS",
+      "type": "int",
+      "def": 1450,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275881,
+      "desc": "No description."
+  },
+  "0x08334786": {
+      "name": "MALEOUTFIT_VALENTINES2016_THE_AMORE",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275967,
+      "desc": "No description."
+  },
+  "0x5CD159B0": {
+      "name": "MALEOUTFIT_VALENTINES2016_THE_BEAU",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275971,
+      "desc": "No description."
+  },
+  "0xC09E994A": {
+      "name": "MALEOUTFIT_VALENTINES2016_THE_BRAVE",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275975,
+      "desc": "No description."
+  },
+  "0xF76C221B": {
+      "name": "MALEOUTFIT_VALENTINES2016_THE_DAPPER",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275972,
+      "desc": "No description."
+  },
+  "0xDA2E0B97": {
+      "name": "MALEOUTFIT_VALENTINES2016_THE_HUNK",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275977,
+      "desc": "No description."
+  },
+  "0xDE537CC0": {
+      "name": "MALEOUTFIT_VALENTINES2016_THE_LEOPARD",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275973,
+      "desc": "No description."
+  },
+  "0x8D1CAB98": {
+      "name": "MALEOUTFIT_VALENTINES2016_THE_MACHO",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275978,
+      "desc": "No description."
+  },
+  "0xC321CBB8": {
+      "name": "MALEOUTFIT_VALENTINES2016_THE_RELAXED",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275976,
+      "desc": "No description."
+  },
+  "0x3FD7A6BE": {
+      "name": "MALEOUTFIT_VALENTINES2016_THE_ROMANTIC",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275974,
+      "desc": "No description."
+  },
+  "0x83BE044E": {
+      "name": "MALEOUTFIT_VALENTINES2016_THE_ROMEO",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275969,
+      "desc": "No description."
+  },
+  "0xAEBB1F75": {
+      "name": "MALEOUTFIT_VALENTINES2016_THE_SUAVE",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275968,
+      "desc": "No description."
+  },
+  "0xE7095AA6": {
+      "name": "MALEOUTFIT_VALENTINES2016_THE_SUITOR",
+      "type": "float",
+      "def": 1,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275970,
+      "desc": "No description."
+  },
+  "0xAFABBE56": {
+      "name": "MALESHOES_VALENTINES2016_ALL_RED_TIP_OXFORDS",
+      "type": "int",
+      "def": 4460,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275837,
+      "desc": "No description."
+  },
+  "0xE2BE1ED0": {
+      "name": "MALESHOES_VALENTINES2016_BLUE_TIP_OXFORDS",
+      "type": "int",
+      "def": 3900,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275829,
+      "desc": "No description."
+  },
+  "0x2DA3E198": {
+      "name": "MALESHOES_VALENTINES2016_BROWN_TIP_OXFORDS",
+      "type": "int",
+      "def": 4320,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275835,
+      "desc": "No description."
+  },
+  "0xAB30C528": {
+      "name": "MALESHOES_VALENTINES2016_CHARCOAL_TIP_OXFORDS",
+      "type": "int",
+      "def": 4670,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275838,
+      "desc": "No description."
+  },
+  "0x807ADA9E": {
+      "name": "MALESHOES_VALENTINES2016_DUSK_TIP_OXFORDS",
+      "type": "int",
+      "def": 4040,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275831,
+      "desc": "No description."
+  },
+  "0x24103C7D": {
+      "name": "MALESHOES_VALENTINES2016_GRAY_TIP_OXFORDS",
+      "type": "int",
+      "def": 4180,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275833,
+      "desc": "No description."
+  },
+  "0xD9A55922": {
+      "name": "MALESHOES_VALENTINES2016_HAZARD_TIP_OXFORDS",
+      "type": "int",
+      "def": 4390,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275836,
+      "desc": "No description."
+  },
+  "0x4E12918E": {
+      "name": "MALESHOES_VALENTINES2016_PINK_TIP_OXFORDS",
+      "type": "int",
+      "def": 4600,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275839,
+      "desc": "No description."
+  },
+  "0xE7C61EDF": {
+      "name": "MALESHOES_VALENTINES2016_PURPLE_TIP_OXFORDS",
+      "type": "int",
+      "def": 4250,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275832,
+      "desc": "No description."
+  },
+  "0xF99AA6DF": {
+      "name": "MALESHOES_VALENTINES2016_ROYAL_TIP_OXFORDS",
+      "type": "int",
+      "def": 4530,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275840,
+      "desc": "No description."
+  },
+  "0x200F6B06": {
+      "name": "MALESHOES_VALENTINES2016_SKY_TIP_OXFORDS",
+      "type": "int",
+      "def": 3970,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275834,
+      "desc": "No description."
+  },
+  "0x49BD7ADF": {
+      "name": "MALESHOES_VALENTINES2016_WHITE_TIP_OXFORDS",
+      "type": "int",
+      "def": 4110,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275830,
+      "desc": "No description."
+  },
+  "0x93B37570": {
+      "name": "MALEUPPERS_VALENTINES2016_BEIGE_CHECK_DOUBLE_SUIT",
+      "type": "int",
+      "def": 7050,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275851,
+      "desc": "No description."
+  },
+  "0x9CB99330": {
+      "name": "MALEUPPERS_VALENTINES2016_BEIGE_CHECK_SUIT_VEST",
+      "type": "int",
+      "def": 4100,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275863,
+      "desc": "No description."
+  },
+  "0x6DA522E4": {
+      "name": "MALEUPPERS_VALENTINES2016_BLUE_CHECK_DOUBLE_SUIT",
+      "type": "int",
+      "def": 6180,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275841,
+      "desc": "No description."
+  },
+  "0xDEBA7691": {
+      "name": "MALEUPPERS_VALENTINES2016_BLUE_CHECK_SUIT_VEST",
+      "type": "int",
+      "def": 3230,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275853,
+      "desc": "No description."
+  },
+  "0x18A4E719": {
+      "name": "MALEUPPERS_VALENTINES2016_CHOCOLATE_CHECK_DOUBLE_SUIT",
+      "type": "int",
+      "def": 6340,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275847,
+      "desc": "No description."
+  },
+  "0x02117851": {
+      "name": "MALEUPPERS_VALENTINES2016_CHOCOLATE_CHECK_SUIT_VEST",
+      "type": "int",
+      "def": 3390,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275859,
+      "desc": "No description."
+  },
+  "0x43B3121C": {
+      "name": "MALEUPPERS_VALENTINES2016_CLASSIC_CHECK_DOUBLE_SUIT",
+      "type": "int",
+      "def": 6215,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275850,
+      "desc": "No description."
+  },
+  "0x890CEF2F": {
+      "name": "MALEUPPERS_VALENTINES2016_CLASSIC_CHECK_SUIT_VEST",
+      "type": "int",
+      "def": 3265,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275862,
+      "desc": "No description."
+  },
+  "0x38D3195C": {
+      "name": "MALEUPPERS_VALENTINES2016_CRIMSON_CHECK_DOUBLE_SUIT",
+      "type": "int",
+      "def": 5950,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275849,
+      "desc": "No description."
+  },
+  "0x97C78822": {
+      "name": "MALEUPPERS_VALENTINES2016_CRIMSON_CHECK_SUIT_VEST",
+      "type": "int",
+      "def": 3000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275861,
+      "desc": "No description."
+  },
+  "0xD160E536": {
+      "name": "MALEUPPERS_VALENTINES2016_DUSK_CHECK_DOUBLE_SUIT",
+      "type": "int",
+      "def": 6550,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275843,
+      "desc": "No description."
+  },
+  "0x86690147": {
+      "name": "MALEUPPERS_VALENTINES2016_DUSK_CHECK_SUIT_VEST",
+      "type": "int",
+      "def": 3600,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275855,
+      "desc": "No description."
+  },
+  "0x53F9B033": {
+      "name": "MALEUPPERS_VALENTINES2016_GRAY_CHECK_DOUBLE_SUIT",
+      "type": "int",
+      "def": 6230,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275845,
+      "desc": "No description."
+  },
+  "0x7BA20106": {
+      "name": "MALEUPPERS_VALENTINES2016_GRAY_CHECK_SUIT_VEST",
+      "type": "int",
+      "def": 3280,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275857,
+      "desc": "No description."
+  },
+  "0x51BE829A": {
+      "name": "MALEUPPERS_VALENTINES2016_MUSTARD_PINSTRIPE_DOUBLE_SUIT",
+      "type": "int",
+      "def": 7160,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275848,
+      "desc": "No description."
+  },
+  "0xC9A47970": {
+      "name": "MALEUPPERS_VALENTINES2016_MUSTARD_PINSTRIPE_SUIT_VEST",
+      "type": "int",
+      "def": 4210,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275860,
+      "desc": "No description."
+  },
+  "0x71FDE06A": {
+      "name": "MALEUPPERS_VALENTINES2016_PURPLE_CHECK_DOUBLE_SUIT",
+      "type": "int",
+      "def": 5575,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275844,
+      "desc": "No description."
+  },
+  "0x3983A6D0": {
+      "name": "MALEUPPERS_VALENTINES2016_PURPLE_CHECK_SUIT_VEST",
+      "type": "int",
+      "def": 2625,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275856,
+      "desc": "No description."
+  },
+  "0xCC8FAF2B": {
+      "name": "MALEUPPERS_VALENTINES2016_RED_PINSTRIPE_DOUBLE_SUIT",
+      "type": "int",
+      "def": 6800,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275842,
+      "desc": "No description."
+  },
+  "0x4D6E2F76": {
+      "name": "MALEUPPERS_VALENTINES2016_RED_PINSTRIPE_SUIT_VEST",
+      "type": "int",
+      "def": 3850,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275854,
+      "desc": "No description."
+  },
+  "0x81405E97": {
+      "name": "MALEUPPERS_VALENTINES2016_ROYAL_CHECK_DOUBLE_SUIT",
+      "type": "int",
+      "def": 5920,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275852,
+      "desc": "No description."
+  },
+  "0x59CC8E8D": {
+      "name": "MALEUPPERS_VALENTINES2016_ROYAL_CHECK_SUIT_VEST",
+      "type": "int",
+      "def": 2970,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275864,
+      "desc": "No description."
+  },
+  "0x666DBA45": {
+      "name": "MALEUPPERS_VALENTINES2016_SKY_CHECK_DOUBLE_SUIT",
+      "type": "int",
+      "def": 5885,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275846,
+      "desc": "No description."
+  },
+  "0x53FC8439": {
+      "name": "MALEUPPERS_VALENTINES2016_SKY_CHECK_SUIT_VEST",
+      "type": "int",
+      "def": 2935,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275858,
+      "desc": "No description."
+  },
+  "0x1EB9C741": {
+      "name": "MIN_ASSIST_DAMAGE",
+      "type": "int",
+      "def": 40,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275724,
+      "desc": "No description."
+  },
+  "0x3B3DCA09": {
+      "name": "OPTOUT_PROPERTYWEBSITE_SALE0",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275774,
+      "desc": "No description."
+  },
+  "0x5173F675": {
+      "name": "OPTOUT_PROPERTYWEBSITE_SALE1",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275775,
+      "desc": "No description."
+  },
+  "0x1FC11310": {
+      "name": "OPTOUT_PROPERTYWEBSITE_SALE2",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275776,
+      "desc": "No description."
+  },
+  "0x3465BC59": {
+      "name": "OPTOUT_PROPERTYWEBSITE_SALE3",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275777,
+      "desc": "No description."
+  },
+  "0x6EE63151": {
+      "name": "OPTOUT_PROPERTYWEBSITE_SALE4",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275778,
+      "desc": "No description."
+  },
+  "0x44A0DCC7": {
+      "name": "OPTOUT_PROPERTYWEBSITE_SALE5",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275779,
+      "desc": "No description."
+  },
+  "0x525A783A": {
+      "name": "OPTOUT_PROPERTYWEBSITE_SALE6",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275780,
+      "desc": "No description."
+  },
+  "0x2A1C27BE": {
+      "name": "OPTOUT_PROPERTYWEBSITE_SALE7",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275781,
+      "desc": "No description."
+  },
+  "0xA7BFA307": {
+      "name": "OPTOUT_PROPERTYWEBSITE_SALE8",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275782,
+      "desc": "No description."
+  },
+  "0x7D964EB1": {
+      "name": "OPTOUT_PROPERTYWEBSITE_SALE9",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275783,
+      "desc": "No description."
+  },
+  "0x8198075B": {
+      "name": "OPTOUT_PROPERTYWEBSITE_SALE10",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275784,
+      "desc": "No description."
+  },
+  "0xAFCEE3C8": {
+      "name": "OPTOUT_PROPERTYWEBSITE_SALE11",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275785,
+      "desc": "No description."
+  },
+  "0xE2B54994": {
+      "name": "OPTOUT_PROPERTYWEBSITE_SALE12",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275786,
+      "desc": "No description."
+  },
+  "0x93542AD3": {
+      "name": "OPTOUT_PROPERTYWEBSITE_SALE13",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275787,
+      "desc": "No description."
+  },
+  "0x99773739": {
+      "name": "OPTOUT_PROPERTYWEBSITE_SALE14",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275788,
+      "desc": "No description."
+  },
+  "0xE6F45232": {
+      "name": "OPTOUT_PROPERTYWEBSITE_SALE15",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275789,
+      "desc": "No description."
+  },
+  "0xFA12786E": {
+      "name": "OPTOUT_PROPERTYWEBSITE_SALE16",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275790,
+      "desc": "No description."
+  },
+  "0xCBCF9BE9": {
+      "name": "OPTOUT_PROPERTYWEBSITE_SALE17",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275791,
+      "desc": "No description."
+  },
+  "0x1E81414B": {
+      "name": "OPTOUT_PROPERTYWEBSITE_SALE18",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275792,
+      "desc": "No description."
+  },
+  "0x343C6CC1": {
+      "name": "OPTOUT_PROPERTYWEBSITE_SALE19",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275793,
+      "desc": "No description."
+  },
+  "0x2153CF81": {
+      "name": "OPTOUT_VEHICLEWEBSITE_SALE0",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275754,
+      "desc": "No description."
+  },
+  "0x4F9DAC14": {
+      "name": "OPTOUT_VEHICLEWEBSITE_SALE1",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275755,
+      "desc": "No description."
+  },
+  "0xABDB6492": {
+      "name": "OPTOUT_VEHICLEWEBSITE_SALE2",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275756,
+      "desc": "No description."
+  },
+  "0x9E21491E": {
+      "name": "OPTOUT_VEHICLEWEBSITE_SALE3",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275757,
+      "desc": "No description."
+  },
+  "0x9857BD8B": {
+      "name": "OPTOUT_VEHICLEWEBSITE_SALE4",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275758,
+      "desc": "No description."
+  },
+  "0x7A948205": {
+      "name": "OPTOUT_VEHICLEWEBSITE_SALE5",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275759,
+      "desc": "No description."
+  },
+  "0xC6A51A21": {
+      "name": "OPTOUT_VEHICLEWEBSITE_SALE6",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275760,
+      "desc": "No description."
+  },
+  "0xF96EFFB4": {
+      "name": "OPTOUT_VEHICLEWEBSITE_SALE7",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275761,
+      "desc": "No description."
+  },
+  "0xA329532A": {
+      "name": "OPTOUT_VEHICLEWEBSITE_SALE8",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275762,
+      "desc": "No description."
+  },
+  "0xD1FC30CF": {
+      "name": "OPTOUT_VEHICLEWEBSITE_SALE9",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275763,
+      "desc": "No description."
+  },
+  "0x63A5733D": {
+      "name": "OPTOUT_VEHICLEWEBSITE_SALE10",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275764,
+      "desc": "No description."
+  },
+  "0x356616BF": {
+      "name": "OPTOUT_VEHICLEWEBSITE_SALE11",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275765,
+      "desc": "No description."
+  },
+  "0xFE96A921": {
+      "name": "OPTOUT_VEHICLEWEBSITE_SALE12",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275766,
+      "desc": "No description."
+  },
+  "0x50C9CD86": {
+      "name": "OPTOUT_VEHICLEWEBSITE_SALE13",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275767,
+      "desc": "No description."
+  },
+  "0x18D4DD9D": {
+      "name": "OPTOUT_VEHICLEWEBSITE_SALE14",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275768,
+      "desc": "No description."
+  },
+  "0xEA0A8009": {
+      "name": "OPTOUT_VEHICLEWEBSITE_SALE15",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275769,
+      "desc": "No description."
+  },
+  "0xB46094B2": {
+      "name": "OPTOUT_VEHICLEWEBSITE_SALE16",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275770,
+      "desc": "No description."
+  },
+  "0xC9EDBFCC": {
+      "name": "OPTOUT_VEHICLEWEBSITE_SALE17",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275771,
+      "desc": "No description."
+  },
+  "0x8AB8415A": {
+      "name": "OPTOUT_VEHICLEWEBSITE_SALE18",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275772,
+      "desc": "No description."
+  },
+  "0x9CA7E539": {
+      "name": "OPTOUT_VEHICLEWEBSITE_SALE19",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275773,
+      "desc": "No description."
+  },
+  "0x3786BD7A": {
+      "name": "RUN_TICKER_INGAME_UNLOCKS_TIME_TO_PROCESS",
+      "type": "int",
+      "def": 300,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275996,
+      "desc": "No description."
+  },
+  "0x82555D18": {
+      "name": "TURN_ON_BE_MY_VALENTINE",
+      "type": "bool",
+      "def": 300,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275794,
+      "desc": "No description."
+  },
+  "0xE94B1088": {
+      "name": "TURN_ON_BE_MY_VALENTINE_JOBS_POSIX",
+      "type": "int",
+      "def": 1455408000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275795,
+      "desc": "No description."
+  },
+  "0x396F0F20": {
+      "name": "TURN_ON_BE_MY_VALENTINE_NUMBER_OF_OCCURRENCES",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275796,
+      "desc": "No description."
+  },
+  "0x65125851": {
+      "name": "TURN_ON_COME_BEASTVSSLASHER_NUMBER_OF_OCCURRENCES",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275736,
+      "desc": "No description."
+  },
+  "0x2A813B0E": {
+      "name": "TURN_ON_COME_DROPZONE_NUMBER_OF_OCCURRENCES",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275737,
+      "desc": "No description."
+  },
+  "0xBDCD2737": {
+      "name": "TURN_ON_COME_EXTRACTION_NUMBER_OF_OCCURRENCES",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275738,
+      "desc": "No description."
+  },
+  "0x0A5736E4": {
+      "name": "TURN_ON_COME_OUT_TO_PLAY_NUMBER_OF_OCCURRENCES",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275725,
+      "desc": "No description."
+  },
+  "0x400DC219": {
+      "name": "TURN_ON_CROSS_THE_LINE_NUMBER_OF_OCCURRENCES",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275726,
+      "desc": "No description."
+  },
+  "0xA22D8B75": {
+      "name": "TURN_ON_DAVIDS_VS_GOLIATH",
+      "type": "bool",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275994,
+      "desc": "No description."
+  },
+  "0x7E7A127C": {
+      "name": "TURN_ON_DAVIDS_VS_GOLIATH_JOBS_POSIX",
+      "type": "int",
+      "def": 1456617600,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275995,
+      "desc": "No description."
+  },
+  "0x0264F95D": {
+      "name": "TURN_ON_EVERY_BULLET_COUNTS_NUMBER_OF_OCCURRENCES",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275727,
+      "desc": "No description."
+  },
+  "0x729E8300": {
+      "name": "TURN_ON_HASTA_LA_VISTA_NUMBER_OF_OCCURRENCES",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275728,
+      "desc": "No description."
+  },
+  "0x7B0EB7DA": {
+      "name": "TURN_ON_HUNTING_PACK_NUMBER_OF_OCCURRENCES",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275729,
+      "desc": "No description."
+  },
+  "0xBC4E8D49": {
+      "name": "TURN_ON_KEEP_THE_PACE_NUMBER_OF_OCCURRENCES",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275730,
+      "desc": "No description."
+  },
+  "0xAB2D81EC": {
+      "name": "TURN_ON_OFFENSE_DEFENSE_NUMBER_OF_OCCURRENCES",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275731,
+      "desc": "No description."
+  },
+  "0x9E3AD817": {
+      "name": "TURN_ON_RELAY_NUMBER_OF_OCCURRENCES",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275732,
+      "desc": "No description."
+  },
+  "0x60D4A828": {
+      "name": "TURN_ON_RUNNING_BACK_NUMBER_OF_OCCURRENCES",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275733,
+      "desc": "No description."
+  },
+  "0xCECBDFDE": {
+      "name": "TURN_ON_SEIGE_MENTALITY_NUMBER_OF_OCCURRENCES",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275734,
+      "desc": "No description."
+  },
+  "0xFB6EF1F2": {
+      "name": "TURN_ON_SLASHER_NUMBER_OF_OCCURRENCES",
+      "type": "int",
+      "def": 0,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275735,
+      "desc": "No description."
+  },
+  "0xDCBCC23A": {
+      "name": "TURN_ON_VALENTINE_2016_CLOTHING",
+      "type": "bool",
+      "def": true,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275741,
+      "desc": "No description."
+  },
+  "0xF1E5FB6C": {
+      "name": "TURN_ON_VALENTINE_2016_VEHICLE",
+      "type": "bool",
+      "def": true,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275742,
+      "desc": "No description."
+  },
+  "0x95D1607A": {
+      "name": "UPGRADE_BRAVADO_BANSHEE_900R_UPGRADE",
+      "type": "int",
+      "def": 565000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275801,
+      "desc": "No description."
+  },
+  "0x94BAB17C": {
+      "name": "UPGRADE_BRAVADO_BANSHEE_BENNYS",
+      "type": "int",
+      "def": 105000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275800,
+      "desc": "No description."
+  },
+  "0xAAE0D8C3": {
+      "name": "VERSUS_WINNER_MINIMUM_CASH",
+      "type": "int",
+      "def": 200,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275744,
+      "desc": "No description."
+  },
+  "0x984C3BE6": {
+      "name": "WEBSITE_VALENTINES2016_ALBANY_ROOSEVELT_VALOR",
+      "type": "int",
+      "def": 982000,
+      "dlc": 617,
+      "rem": -1,
+      "gid": 275828,
+      "desc": "No description."
+  }
+}

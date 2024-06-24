@@ -1,0 +1,15 @@
+| Version | Type | Count | Solved | 100% |
+| ------- | ---- | ----- | ------ | ---- |
+| 2612 | **Additions** | 233 | 233 | ✅ |
+| 2612 | *Removals* | 2 | 1 | ❌ |
+| 2699 | **Additions** | 1372 | 1368 | ❌ |
+| 2699 | *Removals* | 2 | 2 | ✅ |
+| 2802 | **Additions** | 1253 | 1122 | ❌ |
+| 2802 | *Removals* | 75 | 71 | ❌ |
+| 2944 | **Additions** | 933 | 819 | ❌ |
+| 2944 | *Removals* | 5 | 4 | ❌ |
+| 2944-gen9 | **Additions** | 177 | 177 | ✅ |
+| 3095 | **Additions** | 783 | 450 | ❌ |
+| 3095-gen9 | **Additions** | 20 | 20 | ✅ |
+| 33** | **Additions** | tba | tba | 🔜 |
+| 33** | *Removals* | tba | tba | 🔜 |

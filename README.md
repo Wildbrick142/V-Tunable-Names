@@ -1,20 +1,27 @@
+# DLC tomorrow! (June 25)
+As usual, the repo will be unavailable while I get the hashes and first few names sorted.
+
+
 # V-Tunable-Names
 ![Hi!](https://cdn.discordapp.com/attachments/743624986371293193/999970648598269992/monika2-sticker2x.png)<br>This is a page attempting to resolve and list all tunable names for the 5th major iteration of a certain crime game. **This is strictly for educational/research purposes only and I <ins>do not</ins> condone any potentially-malicious use of it.**
 
 ## Notes
 - tunable_list.txt contains all currently known names for convenience.
-- system_tunables.txt contains all currently known names for "system" tunables. Not sure where those are stored. Executable? Those are typically used for CD_GLOBAL, but can be used for anything, one such example being MP_GLOBAL.
+- tunables/names/system/*.txt contains all currently known names for "system" tunables. Usually stored in the executable so it's hard to find them or their function sometimes. Those are typically used for CD_GLOBAL, but can be used for anything, one such example being MP_GLOBAL.
 - fake_tunables.txt contains tunables that have been long-removed or never existed to begin with but were still caught being used in the json for *whatever* reason.
+- hash_collisions.json stores known hash collisions that are the dev's fault, not ours.
 - I am only a human and small mistakes or hash collisions can happen. If you believe you've noticed either of those, feel free to let me know.
 - -----
 - gen7-b*x*-additions contains known/solved names or hashes names that were added in an update of the respective build number for Xbox 360 and PS3 **only**. Mostly redundant as there's barely any difference between gen8-onwards.
 - gen7-b*x*-removals contains known/solved names or hashes that were added in an update of the respective build number for Xbox 360 and PS3 **only**. Mostly redundant as there's barely any difference between gen8-onwards.
 - gen8-b*x*-additions contains known/solved names or hashes that were added in an update of the respective build number for PC, PS4, and XO.
 - gen8-b*x*-removals contains known/solved names or hashes that were added in an update of the respective build number for PC, PS4, and XO.
-- gen9-b*x*-additions contains known/solved names or hashes that were added in an update of the respective build number for PC (post-3/15/22), PS5, and XSX|S.
-- gen9-b*x*-removals contains known/solved names or hashes that were removed in an update of the respective build number for PC (post-3/15/22), PS5, and XSX|S.
+- gen9-b*x*-additions contains known/solved names or hashes that were added in an update of the respective build number for PC/PS4/XO (post-3/15/22), PS5, and XSX|S.
+- gen9-b*x*-removals contains known/solved names or hashes that were removed in an update of the respective build number for PC/PS4/XO (post-3/15/22), PS5, and XSX|S.
 - gen*x*-b*y*-*z*.hashes contains all hashes added or removed in an update of the respective build number for the respective generation.
 - gen*x*-b*y*-*z*.txt contains all known/solved names added or removed in an update of the respective build number for the respective generation.
+- ----
+- TODO: add information, such as short descriptions of what all tunables do, their value type, their defaults, etc. Including those with unsolved names to make it easier to try and solve the name(s).
 
 Contributions are welcome. The more names the merrier! However, please ensure that the names are added to the correct build file (or just dump them all in the full list file and I'll sort it later, though that might take a while). **DO NOT** submit custom names that don't match any hashes, and please be mindful of hash collisions!
 
@@ -27,7 +34,7 @@ Main contexts. Those seem to be always used.
 - MP_GLOBAL
 - MP_FM_MEMBERSHIP
 
-Dynamic contexts. Those are suffixed with the respective contentLists index. These are typically used to adjust cash/rp/ap multipliers, but can also be used to disabled snow/xmas content on specific gamemodes.
+Dynamic contexts. Those are suffixed with the respective contentLists index. These are typically used to adjust (real and fake) cash/rp/ap multipliers, but can also be used to disable snow/xmas content on specific gamemodes.
 - CONTENT_MODIFIER_
 - CONTENT_MODIFIER_MEMBERSHIP_
 
