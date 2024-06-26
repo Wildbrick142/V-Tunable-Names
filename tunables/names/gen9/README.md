@@ -11,5 +11,5 @@
 | 2944-gen9 | **Additions** | 177 | 177 | ✅ |
 | 3095 | **Additions** | 783 | 450 | ❌ |
 | 3095-gen9 | **Additions** | 20 | 20 | ✅ |
-| 33** | **Additions** | tba | tba | 🔜 |
-| 33** | *Removals* | tba | tba | 🔜 |
+| 3258 | **Additions** | 637 | 205 | ❌ |
+| 3258 | *Removals* | 1220 | 1218 | ❌ |
