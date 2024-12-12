@@ -6,10 +6,13 @@
 | 2699 | *Removals* | 2 | 2 | ✅ |
 | 2802 | **Additions** | 1253 | 1123 | ❌ |
 | 2802 | *Removals* | 75 | 71 | ❌ |
+| 2802-gen9 | **Additions** | 3 | 3 | ✅ |
 | 2944 | **Additions** | 933 | 823 | ❌ |
 | 2944 | *Removals* | 5 | 5 | ✅ |
 | 2944-gen9 | **Additions** | 177 | 177 | ✅ |
 | 3095 | **Additions** | 783 | 501 | ❌ |
 | 3095-gen9 | **Additions** | 20 | 20 | ✅ |
-| 3258 | **Additions** | 633 | 343 | ❌ |
+| 3258 | **Additions** | 633 | 346 | ❌ |
 | 3258 | *Removals* | 1320 | 1318 | ❌ |
+| 3407 | **Additions** | 107 | 464 | ❌ |
+| 3407 | *Removals* | 9 | 9 | ✅ |
