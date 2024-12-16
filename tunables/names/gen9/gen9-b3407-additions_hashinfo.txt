@@ -1,0 +1,350 @@
+[-1729223764]
+see: func_132 in heli_gun.#sc
+appears to be the minimum entity speed before SUPPRESS_HD_MAP_STREAMING_THIS_FRAME is called
+
+
+[-1920464865]
+see: func_64 in am_mp_rpa_menu.#sc
+disables "duster" from the field hangar summon menu. confusingly, the tunable to disable "duster2" from the field hangar summon menu is named "field_duster_disable"
+
+
+[-808782705]
+see: func_11757 in freemode.#sc
+some sort of bitset. not sure what's it for.
+
+
+[-142742154]
+see: func_11757 in freemode.#sc
+this value is converted to a float. some sort of a distance check?
+
+
+[-397480753]
+see: func_11757 in freemode.#sc
+not sure. seems to be used to check the time difference?
+
+
+[-83086619]
+see: func_12445 in fmmc_launcher.#sc
+no idea what this does.
+
+
+[-136870380]
+unused/gen9.
+
+
+[53791676]
+unused/gen9.
+
+
+[-1371294151]
+see: func_15259 in freemode.#sc
+not sure. seems to be used to check the time difference?
+
+
+[-648747438]
+see: func_11757 in freemode.#sc
+no idea what this does.
+
+
+[1948124901]
+see: func_8916 in am_pi_menu.#sc
+not sure. related to opening marketing emails
+
+
+[-1198186878]
+see: func_8911 in am_pi_menu.#sc
+not sure. related to receiving marketing emails
+
+
+[975063215]
+see: func_61 in appmpemail.#sc
+not sure. returns from the function early if enabled.
+
+
+[589208607]
+see: func_21855 in freemode.#sc
+enables the new missile lockon jammer email
+
+
+[-1064124640]
+unused/gen9.
+possibly enables the strickler rifle on gen9
+
+
+[-1457071898]
+see: func_55 in cellphone_controller.#sc
+seems to be related to the new safety and alerts menu
+
+
+[-270779210]
+see: func_385 in pausemenu_multiplayer.#sc
+guessing this disables the new safety and alerts menu
+
+
+[-1029044523]
+see: func_7060 in fm_content_arms_trafficking.#sc
+no idea.
+
+
+[699315008]
+see: func_12656 in freemode.#sc
+enables mckenzie field hangar text message from ron
+
+
+[-654758752]
+[-1019215570]
+see: func_1044 in freemode.#sc
+bitset to enable imani missile lockon jammer on specific vehicles.
+names end with a number, not sure if 0-indexed or 1-indexed.
+
+
+[-244473719]
+see: func_8252 in appinternet.#sc
+not sure. it's an int used with SET_DATA_SLOT scaleform function
+
+
+[785252672]
+[-2094679071]
+see: func_9279 in freemode.#sc
+no idea.
+
+
+[-1668454544]
+see: func_9914 in freemode.#sc
+appears to disable a location for a mission.
+
+
+[-1416810659]
+[1569172519]
+[-284923112]
+[1424541233]
+see: func_237 in am_luxury_smowroom.#sc
+possibly blocks something related to the new police vehicles.
+
+
+[-1564902046]
+[763260142]
+[1751088045]
+see: func_314 in apphackerden.#sc
+not sure. might be related to mission weights?
+
+
+[-1420071963]
+see: func_18961 in freemode.#sc
+no idea what this does.
+
+
+[-558141587]
+[456473719]
+see: func_14487 in freemode.#sc
+vehicle mod prices
+
+
+[136918971]
+[266848040]
+see: func_6942 in appinternet.#sc
+some sort of arcade upgrade (base/sale price)
+
+
+[742167028]
+[392422453]
+[-205940921]
+[1714441535]
+[-813605960]
+see: func_2587 in arena_carmod.#sc
+new terrorbyte car mods
+"*_scanner" ?
+"*_stealth" ?
+"*_jammer" ?
+it's possible the name for the first 3 is "terror_add_on_weapon_cost_running_mode_*" but until the last 2 are found it's best to treat it as a hash collision. a collectible scanner is not a "weapon" so the name kinda doesn't make sense.
+
+
+[1159023279]
+see: func_12501 in freemode.#sc
+not sure. possibly related to hacker den safe
+
+
+[1715846636]
+see: func_12421 in freemode.#sc
+hacker den min daily safe value
+"hacker_den_*" ?
+
+
+[174774764]
+see: func_12421 in freemode.#sc
+hacker den max daily safe value
+"hacker_den_*" ?
+
+
+[1169190708]
+see: func_12421 in freemode.#sc
+hacker den safe value increment
+"hacker_den_*" ?
+
+
+[-1744692298]
+see: func_7567 in freemode.#sc
+enables yuan bao collectibles
+
+
+[-1879274817]
+[-1320902962]
+[-1431265500]
+[-1092712312]
+[1730263492]
+[708375785]
+[-511427909]
+see: func_3011 in fm_mission_controller_2020.#sc
+probably something to do with the mfm missions or the 4/20 adversary mode
+
+
+[-1711187614]
+[-1940224829]
+see: func_3029 in fm_mission_controller_2020.#sc
+probably something to do with the mfm missions
+
+
+[-1049052971]
+see: func_3032 in fm_mission_controller_2020.#sc
+probably something to do with the mfm missions or the 4/20 adversary mode
+
+
+[1807553823]
+see: func_384 in appmpjoblistnew.#sc
+picks a model of a lunar new year sign for something
+
+
+[1024545135]
+see: func_2574 in fm_mission_controller_2020.#sc
+cooldown for something
+
+
+[175839577]
+see: func_6751 in fm_content_club_odd_jobs.#sc
+no idea.
+
+
+[985543471]
+see: func_8213 in fm_content_club_odd_jobs.#sc
+no idea.
+
+
+[-1033558543]
+[-906684340]
+[363826639]
+[-1679239546]
+see: func_6750 in fm_content_club_odd_jobs.#sc
+no idea.
+
+
+[210101134]
+see: func_6697 in fm_content_club_odd_jobs.#sc
+no idea.
+
+
+[1871420599]
+see: func_20150 in fm_mission_controller_2020.#sc
+enables el strickler in creators
+
+
+[1275741520]
+see: func_12504 in freemode.#sc
+if enabled it makes the game use the value of FLOW_TIMINGS_DLC_CONTENT_CONTROLLER_ONE_TIMER instead of FLOW_TIMINGS_NEW_CONTENT_CALL
+
+
+[-36430965]
+unused/gen9.
+
+
+[915448561]
+see: func_9730 in fm_content_arms_trafficking.#sc
+robbery finale participation RP reward
+"hacker24_robery_finale_*" ?
+
+
+[-819226412]
+see: func_9730 in fm_content_arms_trafficking.#sc
+robbery prep participation RP reward
+"hacker24_robery_prep_*" ?
+
+
+[-58085832]
+see: func_9731 in fm_content_arms_trafficking.#sc
+robbery prep participation cash reward
+"hacker24_robery_prep_*" ?
+
+
+[-1467798966]
+unused/gen9.
+
+
+[1430930586]
+see: func_9730 in fm_content_arms_trafficking.#sc
+arms trafficking participation RP reward
+"hacker24_arms_trafficking_*" ?
+
+
+[2135835846]
+see: func_9731 in fm_content_arms_trafficking.#sc
+arms trafficking participation cash reward
+"hacker24_arms_trafficking_*" ?
+
+
+
+[-627225834]
+[-1204890756]
+[655918757]
+[1702382192]
+[-2090565207]
+[1494363063]
+[843070686]
+[-1564546117]
+see: func_9480 in fmmc_launcher.#sc
+no idea.
+
+
+[263450304]
+[671859840]
+see: func_9264 in freemode.#sc
+distance checks for "taco_van" and "informant_protection" dispatch work
+
+
+[2119077409]
+[60776797]
+[-603925500]
+see: func_5468 in fm_race_controler.#sc
+related to reduced rewards for inactivity
+
+
+[1955711665]
+[934429856]
+see: func_4246 in fm_race_controler.#sc
+no idea. some kind of modifier.
+
+
+[1616102820]
+see: func_6716 in fm_race_controler.#sc
+no idea. disables something
+
+
+[-939388689]
+[1284363576]
+[-1866319414]
+[-2107007719]
+[897450819]
+[-1489017148]
+[-463576835]
+[-2117211266]
+[1177123505]
+[1854480602]
+[-1416492071]
+[1718972160]
+[287392857]
+[1132177677]
+[1194871314]
+[1351703704]
+[1524789562]
+[-436009091]
+[168603284]
+[-712260205]
+unused/gen9.
