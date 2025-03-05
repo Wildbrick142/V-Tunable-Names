@@ -6,6 +6,7 @@
 - tunables/names/system/*.txt contains all currently known names for "system" tunables. Usually stored in the executable so it's hard to find them or their function sometimes. Those are typically used for CD_GLOBAL, but can be used for anything, one such example being MP_GLOBAL.
 - fake_tunables.txt contains tunables that have been long-removed or never existed to begin with but were still caught being used in the json for *whatever* reason.
 - hash_collisions.json stores known hash collisions that are the dev's fault, not ours.
+- Build numbers are based on Gen8 PC build numbers for both Gen8 *and* Gen9.
 - I am only a human and small mistakes or hash collisions can happen. If you believe you've noticed either of those, feel free to let me know.
 - -----
 - gen7-b*x*-additions contains known/solved names or hashes names that were added in an update of the respective build number for Xbox 360 and PS3 **only**. Mostly redundant as there's barely any difference between gen8-onwards.
