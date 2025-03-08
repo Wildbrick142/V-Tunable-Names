@@ -28,14 +28,6 @@ see: func_12445 in fmmc_launcher.#sc
 no idea what this does.
 
 
-[-136870380]
-unused/gen9.
-
-
-[53791676]
-unused/gen9.
-
-
 [-1371294151]
 see: func_15259 in freemode.#sc
 not sure. seems to be used to check the time difference?
@@ -67,8 +59,8 @@ enables the new missile lockon jammer email
 
 
 [-1064124640]
-unused/gen9.
-possibly enables the strickler rifle on gen9
+see: func_8370 in freemode.#sc on pcgen9 b811
+possibly enables the strickler rifle on gen9?
 
 
 [-1457071898]
@@ -253,7 +245,8 @@ if enabled it makes the game use the value of FLOW_TIMINGS_DLC_CONTENT_CONTROLLE
 
 
 [-36430965]
-unused/gen9.
+see: func_157 in appvinewoodmenu.#sc on pcgen9 b811
+some sorta bitset. possibly related to membership app menu
 
 
 [915448561]
@@ -275,7 +268,8 @@ robbery prep participation cash reward
 
 
 [-1467798966]
-unused/gen9.
+see: func_8100 in main_persistent.#sc on pcgen9 b811
+function related to a "SUM22_ENABLE_CRE_TO_SP_AC_BLOCKING"
 
 
 [1430930586]
@@ -325,26 +319,3 @@ no idea. some kind of modifier.
 [1616102820]
 see: func_6716 in fm_race_controler.#sc
 no idea. disables something
-
-
-[-939388689]
-[1284363576]
-[-1866319414]
-[-2107007719]
-[897450819]
-[-1489017148]
-[-463576835]
-[-2117211266]
-[1177123505]
-[1854480602]
-[-1416492071]
-[1718972160]
-[287392857]
-[1132177677]
-[1194871314]
-[1351703704]
-[1524789562]
-[-436009091]
-[168603284]
-[-712260205]
-unused/gen9.
